@@ -29,9 +29,9 @@ Apply your new skills to real-world projects, build a portfolio, and prepare for
 
 ## Deliverables
 1. [Burndown Chart Illustration and Lab Worksheet](Burndown-Chart-Illustration-and-Lab-Worksheet.pdf)
-2. [Completed User Story]
-3. [FFA and Risk Register Template]
-4. [Kanban Board Lab Worksheet]
+2. [Completed User Story](Completed-User-Story.pdf)
+3. [FFA and Risk Register Template](FFA-and-Risk-Register-Template)
+4. [Kanban Board Lab Worksheet](Kanban-Board-Lab-Worksheet.pdf)
 5. [Kanban Board Lab]
 6. [Previous Product Backlog]
 7. [Product Backlog After Sprint 2]
