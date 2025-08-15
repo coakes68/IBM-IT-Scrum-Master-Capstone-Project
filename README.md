@@ -35,7 +35,7 @@ Apply your new skills to real-world projects, build a portfolio, and prepare for
 5. [Kanban Board Lab](Kanban-Board-Lab.pdf)
 6. [Previous Product Backlog](Previous-Product-Backlog.pdf)
 7. [Product Backlog After Sprint 2](Product-Backlog-After-Sprint-2.pdf)
-8. [Product Backlog After Sprint 3](Product-Backlog-After-Sprint-3.pdf)
+8. [Product Backlog Prior tp Sprint 3](Product-Backlog-Proir-to-Sprint-3.pdf)
 9. [Product Backlog Template](Product-Backlog-Template.pdf)
 10. [Product Vision Template](Product-Vision-Template.pdf)
 11. [Relative Estimation Template](Relative-Estimation-Template.pdf)
