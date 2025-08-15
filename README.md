@@ -34,17 +34,17 @@ Apply your new skills to real-world projects, build a portfolio, and prepare for
 4. [Kanban Board Lab Worksheet](Kanban-Board-Lab-Worksheet.pdf)
 5. [Kanban Board Lab](Kanban-Board-Lab.pdf)
 6. [Previous Product Backlog](Previous-Product-Backlog.pdf)
-7. [Product Backlog After Sprint 2]
-8. [Product Backlog After Sprint 3]
-9. [Product Backlog Template]
-10. [Product Vision Template]
-11. [Relative Estimation Template]
-12. [Sprint 3 Activities Required Template]
-13. [Sprint Backlog Worksheet]
-14. [Sprint Execution Checklist]
-15. [Sprint Review Demo Checklist]
-16. [Stacey Analysis Template]
-17. [User Story Template after Sprint 3]
-18. [User Story Template]
-19. [Velocity Activity]
-20. [Working Agreement Template]
+7. [Product Backlog After Sprint 2](Product-Backlog-After-Sprint-2.pdf)
+8. [Product Backlog After Sprint 3](Product-Backlog-After-Sprint-3.pdf)
+9. [Product Backlog Template](Product-Backlog-Template.pdf)
+10. [Product Vision Template](Product-Vision-Template.pdf)
+11. [Relative Estimation Template](Relative-Estimation-Template.pdf)
+12. [Sprint 3 Activities Required Template](Sprint-3-Activities-Required-Template.pdf)
+13. [Sprint Backlog Worksheet](Sprint-Backlog-Worksheet.pdf)
+14. [Sprint Execution Checklist](Sprint-Execution-Checklist.pdf)
+15. [Sprint Review Demo Checklist](Sprint-Review-Demo-Checklist.pdf)
+16. [Stacey Analysis Template](Stacey-Analysis-Template.pdf)
+17. [User Story Template after Sprint 3](User-Story-Template-after-Sprint-3.pdf)
+18. [User Story Template](User-Story-Template.pdf)
+19. [Velocity Activity](Velocity-Activity.pdf)
+20. [Working Agreement Template](Working-Agreement-Template.pdf)
