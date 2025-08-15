@@ -26,3 +26,25 @@ Learn Agile concepts of adaptive planning, iterative development, and continuous
 Gain knowledge regarding software engineering, Software Development Lifecycle (SDLC), software development tools, & DevOps essential characteristics
 
 Apply your new skills to real-world projects, build a portfolio, and prepare for the CSM certification exam from Scrum Alliance
+
+## Deliverables
+1. Burndowm Chart Illustration and Lab Worksheet
+2. Completed User Story
+3. FFA and Risk Register Template
+4. Kanban Board Lab Worksheet
+5. Kanban Board Lab
+6. Previous Product Backlog
+7. Product Backlog After Sprint 2
+8. Product Backlog After Sprint 3
+9. Product Backlog Template
+10. Product Vision Template
+11. Relative Estimation Template
+12. Sprint 3 Activities Required Template
+13. Sprint Backlog Worksheet
+14. Sprint Execution Checklist
+15. Sprint Review Demo Checklist
+16. Stacey Analysis Template
+17. User Story Template after Sprint 3
+18. User Story Template
+19. Velocity Activity
+20. Working Agreement Template
