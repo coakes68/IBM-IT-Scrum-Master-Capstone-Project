@@ -28,7 +28,7 @@ Gain knowledge regarding software engineering, Software Development Lifecycle (S
 Apply your new skills to real-world projects, build a portfolio, and prepare for the CSM certification exam from Scrum Alliance
 
 ## Deliverables
-1. [Burndown Chart Illustration and Lab Worksheet](burndown-chart-illustration-and-lab-worksheet.pdf)
+1. [Burndown Chart Illustration and Lab Worksheet](#burndown-chart-illustration-and-lab-worksheet.pdf)
 2. [Completed User Story]
 3. [FFA and Risk Register Template]
 4. [Kanban Board Lab Worksheet]
