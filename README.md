@@ -32,8 +32,8 @@ Apply your new skills to real-world projects, build a portfolio, and prepare for
 2. [Completed User Story](Completed-User-Story.pdf)
 3. [FFA and Risk Register Template](FFA-and-Risk-Register-Template)
 4. [Kanban Board Lab Worksheet](Kanban-Board-Lab-Worksheet.pdf)
-5. [Kanban Board Lab]
-6. [Previous Product Backlog]
+5. [Kanban Board Lab](Kanban-Board-Lab.pdf)
+6. [Previous Product Backlog](Previous-Product-Backlog.pdf)
 7. [Product Backlog After Sprint 2]
 8. [Product Backlog After Sprint 3]
 9. [Product Backlog Template]
